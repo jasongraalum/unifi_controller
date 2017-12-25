@@ -1,4 +1,4 @@
-FROM phusion/baseimage:latest
+FROM phusion/baseimage:Rel1
 MAINTAINER jasongraalum@me.com
 # Set correct environment variables
 ENV HOME /root
